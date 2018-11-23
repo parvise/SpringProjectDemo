@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: flashSaleDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: parvisecp11788
+Implementation-Vendor-Id: com.demo.flashSale
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/flashSaleDemo
+Created-By: Maven Integration for Eclipse
+
